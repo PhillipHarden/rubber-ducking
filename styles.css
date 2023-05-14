@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500&family=Montserrat:wght@200;300;400&display=swap");
 
 .body {
-  color: #d3d3d3;
+  color: #d3d3d3;  
+  background: linear-gradient(transparent, rgba(0, 0, 0, 1));
   background-color: #36454f;
 }
 
