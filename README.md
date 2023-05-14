@@ -9,7 +9,4 @@ One day, I was telling a friend about this method I used to fix problems in my c
 
 So, I do not actually have a rubber duck to use this method with. Instead, I talk to the cast of the 1985 film The Breakfast Club. Well not actually the cast, but a poster of them in my office. 
 
- 
-
 Yup… John Bender, Andrew Clark, Allison Reynolds, Brian Johnson, and Claire Standish all stare at me like they could not care less as I explain to them what each line of my code is doing, or not doing. And just about every time their cold stares trigger an idea that works or tells me what I am missing. And I happily end my conversation with a poster on my wall with thanks guys!
-![image](https://github.com/PhillipHarden/rubber-ducking/assets/72165500/ac524787-5b30-4606-8f88-8fc54c636388)
